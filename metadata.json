@@ -1,0 +1,6 @@
+{
+  "name": "MyMemo",
+  "description": "A personal memo application for managing notes with titles, bodies, and tags. Features filtering, searching, and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
